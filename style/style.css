@@ -184,7 +184,5 @@ header {
 .topics-list {
   display: flex;
   flex-wrap: wrap;
-}
-.topic{
-  margin: 0px 10px;
+  gap: 50px 20px;
 }
