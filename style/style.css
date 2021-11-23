@@ -357,7 +357,7 @@ footer {
   line-height: 18px;
   color: #e5e5e5;
 }
-.subscribe-flex p+p a{
+.subscribe-flex p + p a {
   font-weight: 400;
   font-size: 14px;
   line-height: 18px;
